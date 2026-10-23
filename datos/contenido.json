@@ -1,0 +1,42 @@
+{
+ "noticias": [
+  {
+   "id": "programa-autismo-y-neurodivergencia",
+   "fecha": "2025-05-08",
+   "titulo": "Programa Autismo y Neurodivergencia",
+   "texto": "Atención integral y personalizada para niños, niñas y adolescentes con condiciones del neurodesarrollo, especialmente Trastorno del Espectro Autista (TEA) y otras formas de neurodivergencia.",
+   "foto": "",
+   "enlace": "/programa-autismo-y-neurodivergencia/",
+   "textoEnlace": "Ver el programa",
+   "video": ""
+  },
+  {
+   "id": "intervencion-temprana",
+   "fecha": "2025-05-08",
+   "titulo": "Intervención Temprana",
+   "texto": "Para niños y niñas entre los 0 y 5 años con variaciones en su desarrollo o condiciones neurológicas detectadas en etapas iniciales.",
+   "foto": "",
+   "enlace": "/intervencion-temprana/",
+   "textoEnlace": "Ver el programa",
+   "video": ""
+  },
+  {
+   "id": "regulacion-sensorial",
+   "fecha": "2025-05-08",
+   "titulo": "Regulación Sensorial",
+   "texto": "Programa de Regulación Sensorial e Integración Neuromotora para niños y niñas con dificultades en el procesamiento de estímulos sensoriales.",
+   "foto": "",
+   "enlace": "/regulacion-sensorial/",
+   "textoEnlace": "Ver el programa",
+   "video": ""
+  }
+ ],
+ "eventos": [],
+ "videos": [],
+ "galeria": [
+  {
+   "foto": "/img/recepcion.jpg",
+   "texto": "Recepción de Reina Elizabeth IPS"
+  }
+ ]
+}
