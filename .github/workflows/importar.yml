@@ -1,0 +1,19 @@
+name: Importar contenido de WordPress
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar paginas, entradas, imagenes y documentos
+        run: python3 .github/importar_wp.py
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "SkyNet Genesis"
+          git config user.email "contacto@skynetgenesis.com"
+          git add -A fuente
+          git commit -m "Importar contenido desde WordPress" || echo "Sin cambios"
+          git push
