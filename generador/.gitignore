@@ -1,0 +1,7 @@
+# Se descargan del panel de POLIANDES al construir (no se guardan aquí)
+base.css
+panel.html
+acceso.js
+contenido.js
+docs.js
+__pycache__/
