@@ -1,0 +1,376 @@
+[
+ {
+  "id": 29,
+  "date": "2025-05-08T01:50:56",
+  "date_gmt": "2025-05-08T01:50:56",
+  "guid": {
+   "rendered": "https://reinaelizabeth.com/?p=29"
+  },
+  "modified": "2025-05-08T01:50:56",
+  "modified_gmt": "2025-05-08T01:50:56",
+  "slug": "regulacion-sensorial",
+  "status": "publish",
+  "type": "post",
+  "link": "https://reinaelizabeth.com/regulacion-sensorial/",
+  "title": {
+   "rendered": "Regulación Sensorial"
+  },
+  "content": {
+   "rendered": "\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"wp-block-paragraph\">El programa de Regulación Sensorial e Integración Neuromotora de la IPS Reina Elizabeth está dirigido a niños y niñas que presentan dificultades en el procesamiento de estímulos sensoriales o alteraciones en la organización neuromotora que afectan su participación en actividades cotidianas. </p>\n</blockquote>\n\n\n\n<p class=\"wp-block-paragraph\">Mediante un enfoque terapéutico especializado que combina terapia ocupacional, fisioterapia y estimulación multisensorial, el programa busca favorecer la autorregulación, el control postural, la coordinación y la adaptación funcional en contextos familiares, escolares y sociales. Cada intervención se diseña de forma individualizada, considerando el perfil sensorial y motor del niño, dentro de un ambiente estructurado que promueve la exploración segura, la autonomía y el bienestar integral.</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<div class=\"entry-summary\">\nEl programa de Regulación Sensorial e Integración Neuromotora de la IPS Reina Elizabeth está dirigido a niños y niñas que&hellip;\n</div>\n<div class=\"link-more\"><a href=\"https://reinaelizabeth.com/regulacion-sensorial/\" class=\"more-link\">Continuar leyendo<span class=\"screen-reader-text\"> &ldquo;Regulación Sensorial&rdquo;</span>&hellip;</a></div>\n",
+   "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+   "footnotes": ""
+  },
+  "categories": [
+   6,
+   10
+  ],
+  "tags": [
+   9
+  ],
+  "class_list": [
+   "post-29",
+   "post",
+   "type-post",
+   "status-publish",
+   "format-standard",
+   "hentry",
+   "category-neurodivergencia",
+   "category-sensorial",
+   "tag-sensorial",
+   "entry"
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/29",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=29"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/29/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 30,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/29/revisions/30"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media?parent=29"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/categories?post=29"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/tags?post=29"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 27,
+  "date": "2025-05-08T01:46:54",
+  "date_gmt": "2025-05-08T01:46:54",
+  "guid": {
+   "rendered": "https://reinaelizabeth.com/?p=27"
+  },
+  "modified": "2025-05-08T01:46:54",
+  "modified_gmt": "2025-05-08T01:46:54",
+  "slug": "intervencion-temprana",
+  "status": "publish",
+  "type": "post",
+  "link": "https://reinaelizabeth.com/intervencion-temprana/",
+  "title": {
+   "rendered": "Intervención Temprana"
+  },
+  "content": {
+   "rendered": "\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"wp-block-paragraph\">El programa de Intervención Temprana en el Desarrollo Infantil de la IPS Reina Elizabeth está dirigido a niños y niñas entre los 0 y 5 años que presentan variaciones en su desarrollo o condiciones neurológicas detectadas en etapas iniciales. </p>\n</blockquote>\n\n\n\n<p class=\"wp-block-paragraph\">Mediante un enfoque interdisciplinario que integra neuropsicología, fisioterapia, fonoaudiología, terapia ocupacional y acompañamiento familiar, este programa tiene como propósito fortalecer las áreas motora, comunicativa, cognitiva y socioemocional, aprovechando las ventanas de plasticidad cerebral propias de la primera infancia. La intervención se diseña de manera personalizada, respetando el perfil neurodesarrollativo de cada niño, para favorecer su autonomía, su participación activa en los entornos cotidianos y su bienestar integral.</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<div class=\"entry-summary\">\nEl programa de Intervención Temprana en el Desarrollo Infantil de la IPS Reina Elizabeth está dirigido a niños y niñas&hellip;\n</div>\n<div class=\"link-more\"><a href=\"https://reinaelizabeth.com/intervencion-temprana/\" class=\"more-link\">Continuar leyendo<span class=\"screen-reader-text\"> &ldquo;Intervención Temprana&rdquo;</span>&hellip;</a></div>\n",
+   "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+   "footnotes": ""
+  },
+  "categories": [
+   6
+  ],
+  "tags": [
+   7,
+   8
+  ],
+  "class_list": [
+   "post-27",
+   "post",
+   "type-post",
+   "status-publish",
+   "format-standard",
+   "hentry",
+   "category-neurodivergencia",
+   "tag-intervencion",
+   "tag-temprana",
+   "entry"
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/27",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=27"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/27/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 28,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/27/revisions/28"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media?parent=27"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/categories?post=27"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/tags?post=27"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 25,
+  "date": "2025-05-08T01:31:35",
+  "date_gmt": "2025-05-08T01:31:35",
+  "guid": {
+   "rendered": "https://reinaelizabeth.com/?p=25"
+  },
+  "modified": "2025-05-08T01:41:25",
+  "modified_gmt": "2025-05-08T01:41:25",
+  "slug": "programa-autismo-y-neurodivergencia",
+  "status": "publish",
+  "type": "post",
+  "link": "https://reinaelizabeth.com/programa-autismo-y-neurodivergencia/",
+  "title": {
+   "rendered": "Programa Autismo y Neurodivergencia"
+  },
+  "content": {
+   "rendered": "\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"wp-block-paragraph\">El programa de Autismo y Neurodivergencia de la IPS Reina Elizabeth está diseñado para brindar atención integral y personalizada a niños, niñas y adolescentes que presentan condiciones del neurodesarrollo, especialmente Trastorno del Espectro Autista (TEA) y otras formas de neurodivergencia. </p>\n</blockquote>\n\n\n\n<p class=\"wp-block-paragraph\">Este programa se fundamenta en un enfoque interdisciplinario que combina evaluación clínica especializada, intervención terapéutica individualizada y acompañamiento familiar, con el fin de promover la comunicación, la autonomía, la regulación emocional y la inclusión educativa y social. A través de modelos de intervención basados en evidencia, como TEACCH y otras metodologías estructuradas, garantizamos un entorno terapéutico respetuoso con los ritmos y necesidades de cada niño, asegurando un plan de atención integral (PIAR) ajustado a su perfil neuropsicológico y educativo.</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<div class=\"entry-summary\">\nEl programa de Autismo y Neurodivergencia de la IPS Reina Elizabeth está diseñado para brindar atención integral y personalizada a&hellip;\n</div>\n<div class=\"link-more\"><a href=\"https://reinaelizabeth.com/programa-autismo-y-neurodivergencia/\" class=\"more-link\">Continuar leyendo<span class=\"screen-reader-text\"> &ldquo;Programa Autismo y Neurodivergencia&rdquo;</span>&hellip;</a></div>\n",
+   "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": {
+   "footnotes": ""
+  },
+  "categories": [
+   5,
+   6
+  ],
+  "tags": [
+   3,
+   4
+  ],
+  "class_list": [
+   "post-25",
+   "post",
+   "type-post",
+   "status-publish",
+   "format-standard",
+   "hentry",
+   "category-autismo",
+   "category-neurodivergencia",
+   "tag-autismo",
+   "tag-neurodivergencia",
+   "entry"
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/25",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=25"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/25/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 26,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/posts/25/revisions/26"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media?parent=25"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/categories?post=25"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/tags?post=25"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

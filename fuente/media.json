@@ -1,0 +1,934 @@
+[
+ {
+  "id": 34,
+  "date": "2025-05-08T02:16:23",
+  "date_gmt": "2025-05-08T02:16:23",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud.png"
+  },
+  "modified": "2025-05-08T02:16:23",
+  "modified_gmt": "2025-05-08T02:16:23",
+  "slug": "logo-vigilado-supersalud",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/logo-vigilado-supersalud/",
+  "title": {
+   "rendered": "logo-vigilado-supersalud"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-34",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"120\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud-300x120.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud-300x120.png 300w, https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud.png 500w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 500,
+   "height": 200,
+   "file": "2025/05/logo-vigilado-supersalud.png",
+   "filesize": 11587,
+   "sizes": {
+    "medium": {
+     "file": "logo-vigilado-supersalud-300x120.png",
+     "width": 300,
+     "height": 120,
+     "filesize": 5177,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud-300x120.png"
+    },
+    "thumbnail": {
+     "file": "logo-vigilado-supersalud-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 3085,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud-150x150.png"
+    },
+    "full": {
+     "file": "logo-vigilado-supersalud.png",
+     "width": 500,
+     "height": 200,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": null,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/logo-vigilado-supersalud.png",
+  "filename": "logo-vigilado-supersalud.png",
+  "filesize": 11587,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/34",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=34"
+    }
+   ]
+  }
+ },
+ {
+  "id": 33,
+  "date": "2025-05-08T02:13:24",
+  "date_gmt": "2025-05-08T02:13:24",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile.jpg"
+  },
+  "modified": "2025-05-08T02:13:24",
+  "modified_gmt": "2025-05-08T02:13:24",
+  "slug": "channels4_profile",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/channels4_profile/",
+  "title": {
+   "rendered": "channels4_profile"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-33",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-300x300.jpg 300w, https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-150x150.jpg 150w, https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-768x768.jpg 768w, https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile.jpg 900w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 900,
+   "height": 900,
+   "file": "2025/05/channels4_profile.jpg",
+   "filesize": 49080,
+   "sizes": {
+    "medium": {
+     "file": "channels4_profile-300x300.jpg",
+     "width": 300,
+     "height": 300,
+     "filesize": 8160,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-300x300.jpg"
+    },
+    "thumbnail": {
+     "file": "channels4_profile-150x150.jpg",
+     "width": 150,
+     "height": 150,
+     "filesize": 3255,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-150x150.jpg"
+    },
+    "medium_large": {
+     "file": "channels4_profile-768x768.jpg",
+     "width": 768,
+     "height": 768,
+     "filesize": 30479,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile-768x768.jpg"
+    },
+    "full": {
+     "file": "channels4_profile.jpg",
+     "width": 900,
+     "height": 900,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile.jpg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": null,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/channels4_profile.jpg",
+  "filename": "channels4_profile.jpg",
+  "filesize": 49080,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/33",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=33"
+    }
+   ]
+  }
+ },
+ {
+  "id": 20,
+  "date": "2025-05-08T01:09:18",
+  "date_gmt": "2025-05-08T01:09:18",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg"
+  },
+  "modified": "2025-05-08T01:09:18",
+  "modified_gmt": "2025-05-08T01:09:18",
+  "slug": "cropped-recepcion-ips-jpeg",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/cropped-recepcion-ips-jpeg/",
+  "title": {
+   "rendered": "cropped-Recepcion-IPS.jpeg"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-20",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-300x169.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-300x169.jpeg 300w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-1024x576.jpeg 1024w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-768x432.jpeg 768w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-1536x864.jpeg 1536w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg 1598w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg</p>\n"
+  },
+  "caption": {
+   "rendered": "<div class=\"entry-summary\">\nhttp://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg\n</div>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 1598,
+   "height": 899,
+   "file": "2025/05/cropped-Recepcion-IPS.jpeg",
+   "filesize": 102547,
+   "sizes": {
+    "medium": {
+     "file": "cropped-Recepcion-IPS-300x169.jpeg",
+     "width": 300,
+     "height": 169,
+     "filesize": 10086,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-300x169.jpeg"
+    },
+    "large": {
+     "file": "cropped-Recepcion-IPS-1024x576.jpeg",
+     "width": 1024,
+     "height": 576,
+     "filesize": 56136,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-1024x576.jpeg"
+    },
+    "thumbnail": {
+     "file": "cropped-Recepcion-IPS-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 5178,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-150x150.jpeg"
+    },
+    "medium_large": {
+     "file": "cropped-Recepcion-IPS-768x432.jpeg",
+     "width": 768,
+     "height": 432,
+     "filesize": 37347,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-768x432.jpeg"
+    },
+    "1536x1536": {
+     "file": "cropped-Recepcion-IPS-1536x864.jpeg",
+     "width": 1536,
+     "height": 864,
+     "filesize": 98398,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS-1536x864.jpeg"
+    },
+    "full": {
+     "file": "cropped-Recepcion-IPS.jpeg",
+     "width": 1598,
+     "height": 899,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   },
+   "attachment_parent": 15
+  },
+  "post": null,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-Recepcion-IPS.jpeg",
+  "filename": "cropped-Recepcion-IPS.jpeg",
+  "filesize": 102547,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/20",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=20"
+    }
+   ]
+  }
+ },
+ {
+  "id": 15,
+  "date": "2025-05-08T00:50:23",
+  "date_gmt": "2025-05-08T00:50:23",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS.jpeg"
+  },
+  "modified": "2025-05-08T00:50:23",
+  "modified_gmt": "2025-05-08T00:50:23",
+  "slug": "recepcion-ips",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/recepcion-ips/",
+  "title": {
+   "rendered": "Recepcion IPS"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-15",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS.jpeg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"225\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-300x225.jpeg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-300x225.jpeg 300w, https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-1024x768.jpeg 1024w, https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-768x576.jpeg 768w, https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-1536x1152.jpeg 1536w, https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS.jpeg 1600w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/jpeg",
+  "media_details": {
+   "width": 1600,
+   "height": 1200,
+   "file": "2025/05/Recepcion-IPS.jpeg",
+   "filesize": 108346,
+   "sizes": {
+    "medium": {
+     "file": "Recepcion-IPS-300x225.jpeg",
+     "width": 300,
+     "height": 225,
+     "filesize": 12247,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-300x225.jpeg"
+    },
+    "large": {
+     "file": "Recepcion-IPS-1024x768.jpeg",
+     "width": 1024,
+     "height": 768,
+     "filesize": 69291,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-1024x768.jpeg"
+    },
+    "thumbnail": {
+     "file": "Recepcion-IPS-150x150.jpeg",
+     "width": 150,
+     "height": 150,
+     "filesize": 5417,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-150x150.jpeg"
+    },
+    "medium_large": {
+     "file": "Recepcion-IPS-768x576.jpeg",
+     "width": 768,
+     "height": 576,
+     "filesize": 46074,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-768x576.jpeg"
+    },
+    "1536x1536": {
+     "file": "Recepcion-IPS-1536x1152.jpeg",
+     "width": 1536,
+     "height": 1152,
+     "filesize": 121864,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS-1536x1152.jpeg"
+    },
+    "full": {
+     "file": "Recepcion-IPS.jpeg",
+     "width": 1600,
+     "height": 1200,
+     "mime_type": "image/jpeg",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS.jpeg"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": null,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/Recepcion-IPS.jpeg",
+  "filename": "Recepcion-IPS.jpeg",
+  "filesize": 108346,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/15",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=15"
+    }
+   ]
+  }
+ },
+ {
+  "id": 10,
+  "date": "2025-05-08T00:46:29",
+  "date_gmt": "2025-05-08T00:46:29",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-1.png"
+  },
+  "modified": "2025-05-08T00:46:29",
+  "modified_gmt": "2025-05-08T00:46:29",
+  "slug": "cropped-oso2re-1-png",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/oso2re/cropped-oso2re-1-png/",
+  "title": {
+   "rendered": "cropped-oso2re-1.png"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-10",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-1.png'><img loading=\"lazy\" decoding=\"async\" width=\"71\" height=\"130\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-1.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n<p>http://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-1.png</p>\n"
+  },
+  "caption": {
+   "rendered": "<div class=\"entry-summary\">\nhttp://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-1.png\n</div>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 71,
+   "height": 130,
+   "file": "2025/05/cropped-oso2re-1.png",
+   "filesize": 13961,
+   "sizes": {},
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 7,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-1.png",
+  "filename": "cropped-oso2re-1.png",
+  "filesize": 13961,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/10",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=10"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "attachment",
+     "id": 7,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/7"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 8,
+  "date": "2025-05-08T00:46:02",
+  "date_gmt": "2025-05-08T00:46:02",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png"
+  },
+  "modified": "2025-05-08T00:46:02",
+  "modified_gmt": "2025-05-08T00:46:02",
+  "slug": "cropped-oso2re-png",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/oso2re/cropped-oso2re-png/",
+  "title": {
+   "rendered": "cropped-oso2re.png"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-8",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-300x300.png 300w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-150x150.png 150w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-270x270.png 270w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-192x192.png 192w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-180x180.png 180w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-32x32.png 32w, https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png 512w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n<p>http://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png</p>\n"
+  },
+  "caption": {
+   "rendered": "<div class=\"entry-summary\">\nhttp://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png\n</div>\n"
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 512,
+   "height": 512,
+   "file": "2025/05/cropped-oso2re.png",
+   "filesize": 35612,
+   "sizes": {
+    "medium": {
+     "file": "cropped-oso2re-300x300.png",
+     "width": 300,
+     "height": 300,
+     "filesize": 40457,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-300x300.png"
+    },
+    "thumbnail": {
+     "file": "cropped-oso2re-150x150.png",
+     "width": 150,
+     "height": 150,
+     "filesize": 26625,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-150x150.png"
+    },
+    "site_icon-270": {
+     "file": "cropped-oso2re-270x270.png",
+     "width": 270,
+     "height": 270,
+     "filesize": 37571,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-270x270.png"
+    },
+    "site_icon-192": {
+     "file": "cropped-oso2re-192x192.png",
+     "width": 192,
+     "height": 192,
+     "filesize": 31490,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-192x192.png"
+    },
+    "site_icon-180": {
+     "file": "cropped-oso2re-180x180.png",
+     "width": 180,
+     "height": 180,
+     "filesize": 30144,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-180x180.png"
+    },
+    "site_icon-32": {
+     "file": "cropped-oso2re-32x32.png",
+     "width": 32,
+     "height": 32,
+     "filesize": 2669,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re-32x32.png"
+    },
+    "full": {
+     "file": "cropped-oso2re.png",
+     "width": 512,
+     "height": 512,
+     "mime_type": "image/png",
+     "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png"
+    }
+   },
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": 7,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/cropped-oso2re.png",
+  "filename": "cropped-oso2re.png",
+  "filesize": 35612,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/8",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=8"
+    }
+   ],
+   "wp:attached-to": [
+    {
+     "embeddable": true,
+     "post_type": "attachment",
+     "id": 7,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/7"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 7,
+  "date": "2025-05-08T00:45:49",
+  "date_gmt": "2025-05-08T00:45:49",
+  "guid": {
+   "rendered": "http://reinaelizabeth.com/wp-content/uploads/2025/05/oso2re.png"
+  },
+  "modified": "2025-05-08T00:45:49",
+  "modified_gmt": "2025-05-08T00:45:49",
+  "slug": "oso2re",
+  "status": "inherit",
+  "type": "attachment",
+  "link": "https://reinaelizabeth.com/oso2re/",
+  "title": {
+   "rendered": "oso2re"
+  },
+  "author": 1,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "class_list": [
+   "post-7",
+   "attachment",
+   "type-attachment",
+   "status-inherit",
+   "hentry",
+   "entry"
+  ],
+  "description": {
+   "rendered": "<p class=\"attachment\"><a href='https://reinaelizabeth.com/wp-content/uploads/2025/05/oso2re.png'><img loading=\"lazy\" decoding=\"async\" width=\"71\" height=\"130\" src=\"https://reinaelizabeth.com/wp-content/uploads/2025/05/oso2re.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "caption": {
+   "rendered": ""
+  },
+  "alt_text": "",
+  "media_type": "image",
+  "mime_type": "image/png",
+  "media_details": {
+   "width": 71,
+   "height": 130,
+   "file": "2025/05/oso2re.png",
+   "filesize": 16564,
+   "sizes": {},
+   "image_meta": {
+    "aperture": "0",
+    "credit": "",
+    "camera": "",
+    "caption": "",
+    "created_timestamp": "0",
+    "copyright": "",
+    "focal_length": "0",
+    "iso": "0",
+    "shutter_speed": "0",
+    "title": "",
+    "orientation": "0",
+    "keywords": []
+   }
+  },
+  "post": null,
+  "source_url": "https://reinaelizabeth.com/wp-content/uploads/2025/05/oso2re.png",
+  "filename": "oso2re.png",
+  "filesize": 16564,
+  "_links": {
+   "self": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media/7",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/media"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/types/attachment"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://reinaelizabeth.com/wp-json/wp/v2/comments?post=7"
+    }
+   ]
+  }
+ }
+]
