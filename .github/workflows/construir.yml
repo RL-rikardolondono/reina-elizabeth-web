@@ -1,0 +1,33 @@
+name: Construir la pagina
+on:
+  workflow_dispatch:
+  push:
+    paths: ['generador/**']
+permissions:
+  contents: write
+concurrency: construir
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Traer el panel y estilos base (modelo POLIANDES, version fija)
+        run: |
+          P=https://raw.githubusercontent.com/RL-rikardolondono/poliandes-web/4ecab6854906c6212fcb9815124a546a24eb9d97
+          curl -fsSL $P/estilos.css -o generador/base.css
+          curl -fsSL $P/admin/index.html -o generador/panel.html
+          curl -fsSL $P/admin/acceso.js -o generador/acceso.js
+          curl -fsSL $P/contenido.js -o generador/contenido.js
+          curl -fsSL $P/docs.js -o generador/docs.js
+      - name: Construir
+        run: |
+          pip install pillow
+          python3 generador/build.py
+      - name: Publicar
+        run: |
+          git config user.name "SkyNet Genesis"
+          git config user.email "contacto@skynetgenesis.com"
+          git add -A
+          git commit -m "Construir la pagina" || echo "Sin cambios"
+          git pull --rebase
+          git push
