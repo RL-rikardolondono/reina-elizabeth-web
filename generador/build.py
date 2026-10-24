@@ -126,6 +126,7 @@ def panel():
     p, n = re.subn(r'carpetas: \{[^}]*\}', 'carpetas: {\n    ' + carp + '\n  }', p, count=1)
     if not n: print('AVISO panel: no encontré carpetas')
     if 'oliandes' in p.replace('poliandes.com/campus', ''): print('AVISO panel: quedó texto de POLIANDES:', set(re.findall(r'.{30}oliandes.{30}', p)))
+    import ingreso_central; p = ingreso_central.convertir(p, c)  # servicio central de ingreso (directiva webs)
     escribir('admin/index.html', p)
     escribir('admin/acceso.js', leer('acceso.js'))
     if not os.path.exists(os.path.join(RAIZ, 'admin/accesos.json')): escribir('admin/accesos.json', '{"usuarios":[]}\n')
