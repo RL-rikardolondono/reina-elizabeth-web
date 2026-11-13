@@ -89,6 +89,7 @@ def pie():
 <div class="cred">{SKYNET_SVG} Sitio desarrollado por SkyNet Genesis · contacto@skynetgenesis.com · WhatsApp 304 437 5758 · © {ANIO} {e(c["nombre_corto"])} · <a class="ingresar" href="/admin/" rel="nofollow">Ingresar (equipo)</a> · <a class="ingresar" href="https://agenda-ia.skynetgenesis.com/" target="_blank" rel="nofollow noopener">Agenda-IA (funcionarios)</a></div>
 </div></footer>
 <script src="/docs.js" defer></script>
+<script src="https://skynetgenesis.com/jeins/widget.js?v=1" defer></script>
 <a class="wa-flot" href="https://wa.me/{c["whatsapp"]}" aria-label="Escribir por WhatsApp">{WA_SVG}</a>
 </body></html>
 '''

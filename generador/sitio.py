@@ -22,7 +22,7 @@ SITIO = {
     'dominio': 'www.reinaelizabeth.com', 'dominio_raiz': 'reinaelizabeth.com', 'whatsapp': WA,
     'logo': 'logo.png', 'icono': 'logo.png', 'og': 'recepcion.jpg',
     'marca_html': 'REINA <span>ELIZABETH</span>', 'lema_corto': 'IPS · Santa Marta',
-    'aviso_top': f'Urgencias médicas 24 horas · WhatsApp <a href="https://wa.me/{WA}">312 888 6611</a> · Calle 22 No. 18-18, Santa Marta',
+    'aviso_top': f'Citas y servicios a domicilio · WhatsApp <a href="https://wa.me/{WA}">312 888 6611</a> · Calle 22 No. 18-18, Santa Marta',
     'nombre_noticias': 'Noticias de Reina Elizabeth', 'nombre_galeria': 'Nuestra IPS', 'ejemplo_clave': 'Reina Elizabeth 2026',
     'colores': '--azul:#0B4F8A;--azul-osc:#073560;--celeste:#14A38B;--naranja:#14A38B;--cta-txt:#fff;--oro-osc:#0E8571;--oro-suave:#E3F6F2;--verde:#1F8A4C;--fondo:#F4F8FB;--fondo2:#E8F1FA;--sup:#fff;--texto:#1C2B39;--suave:#5D6B78;--borde:#DCE5EE',
     'css': '.marca span{color:#7FE0CF}.marca img{width:auto;height:52px}.etq{color:#fff}.pill.n{color:#fff}.cifra{border-top-color:var(--celeste)}',
@@ -68,7 +68,7 @@ SITIO = {
     ],
     'pie': [
         ('Reina Elizabeth IPS', 'Cuidamos tu salud con amor y fe.<br>MONTECARLO SHAIO CLÍNICA IPS S.A.S.<br>NIT 901074496<br><img class="logo-vig" src="/img/vigilado-supersalud.png" alt="Vigilado Supersalud" loading="lazy" style="margin-top:10px">'),
-        ('Contacto', f'Calle 22 No. 18-18, Catalina 2000<br>Santa Marta, Magdalena<br>WhatsApp 24/7: <a href="https://wa.me/{WA}">312 888 6611</a><br>Correo: <a href="mailto:contacto@reinaelizabeth.com">contacto@reinaelizabeth.com</a>'),
+        ('Contacto', f'Calle 22 No. 18-18, Catalina 2000<br>Santa Marta, Magdalena<br>WhatsApp: <a href="https://wa.me/{WA}">312 888 6611</a><br>Correo: <a href="mailto:contacto@reinaelizabeth.com">contacto@reinaelizabeth.com</a>'),
         ('Servicios', '<ul><li><a href="/#servicios">Servicios de salud</a></li><li><a href="/programa-autismo-y-neurodivergencia/">Autismo y Neurodivergencia</a></li><li><a href="/intervencion-temprana/">Intervención Temprana</a></li><li><a href="/regulacion-sensorial/">Regulación Sensorial</a></li></ul>'),
         ('Enlaces', '<ul><li><a href="/noticias/">Noticias</a></li><li><a href="/educacion/">Educación y docencia</a></li><li><a href="/institucion/">Nuestra institución</a></li><li><a href="/funcionarios/">Funcionarios</a></li></ul>'),
     ],
@@ -86,7 +86,6 @@ SITIO = {
 # ---------------- contenido de las páginas ----------------
 SERVICIOS = [
     ('medico', 'Medicina general', 'Consulta médica en la IPS y a domicilio.'),
-    ('reloj', 'Urgencias médicas 24 horas', 'Atención de urgencias todos los días, a toda hora.'),
     ('casa', 'Enfermería a domicilio', 'Cuidados de enfermería en la comodidad de su casa.'),
     ('proc', 'Sala de procedimientos básicos', 'Procedimientos menores con personal capacitado.'),
     ('cura', 'Curaciones', 'Curación y seguimiento de heridas.'),
@@ -116,10 +115,10 @@ def programas_html():
 
 INICIO = f'''<div class="hero foto"><img class="fondo" src="/img/recepcion.jpg" alt=""><div class="wrap">
 <span class="etq">Santa Marta · Autism Center</span><h1>Reina Elizabeth IPS</h1>
-<p>Cuidamos tu salud con amor y fe. Medicina general en la IPS y a domicilio, urgencias médicas las 24 horas, enfermería, vacunación, psicología y un programa especializado en autismo y neurodivergencia.</p>
+<p>Cuidamos tu salud con amor y fe. Medicina general en la IPS y a domicilio, enfermería, vacunación, psicología y un programa especializado en autismo y neurodivergencia.</p>
 <div class="btns"><a class="btn b-wa" href="{WA_CONSULTA}">Solicitar consulta por WhatsApp</a><a class="btn b-bl" href="/programa-autismo-y-neurodivergencia/">Programa de autismo</a></div></div></div>
 <div class="wrap"><div class="cifras">
-<div class="cifra"><b>24/7</b><span>Urgencias médicas todos los días</span></div>
+<div class="cifra"><b>Citas</b><span>Agéndela por WhatsApp o en el chat de la página</span></div>
 <div class="cifra"><b>A domicilio</b><span>Medicina general y enfermería en su casa</span></div>
 <div class="cifra"><b>Autism Center</b><span>Autismo y neurodivergencia con enfoque interdisciplinario</span></div>
 <div class="cifra"><b>Santa Marta</b><span>Calle 22 No. 18-18, Catalina 2000</span></div>
@@ -140,10 +139,10 @@ INICIO = f'''<div class="hero foto"><img class="fondo" src="/img/recepcion.jpg" 
 <a class="acceso" href="https://portalpaciente.rras-radioimagenes.com/Identity/Account/Login" target="_blank" rel="noopener"><span class="ico">RX</span><span><b>Radiólogos Asociados</b><small>Portal del paciente</small></span></a>
 <a class="acceso" href="https://resultados.imagcentroradiologico.com:8443/PortalDicom/login" target="_blank" rel="noopener"><span class="ico">RX</span><span><b>Imag</b><small>Centro radiológico</small></span></a>
 </div></div></section>
-<div class="franja"><div class="wrap"><div><h2>¿Necesita atención?</h2><p>Escríbanos por WhatsApp las 24 horas, todos los días.</p></div><a class="btn b-wa" href="{WA_CONSULTA}">WhatsApp 312 888 6611</a></div></div>
+<div class="franja"><div class="wrap"><div><h2>¿Necesita atención?</h2><p>Escríbanos por WhatsApp o hable con Jeins en el chat de esta página para pedir su cita.</p></div><a class="btn b-wa" href="{WA_CONSULTA}">WhatsApp 312 888 6611</a></div></div>
 <section id="contacto"><div class="wrap"><h2>Contacto</h2><div class="contacto-grid">
 <div class="box"><h3>Dirección</h3><p style="margin:0">Calle 22 No. 18-18, Catalina 2000<br>Santa Marta, Magdalena</p><p style="margin:8px 0 0"><a class="mas" href="https://www.google.com/maps/search/?api=1&query=Calle+22+18-18+Santa+Marta" target="_blank" rel="noopener">Ver en el mapa →</a></p></div>
-<div class="box"><h3>WhatsApp 24/7</h3><p style="margin:0"><a href="https://wa.me/{WA}">312 888 6611</a><br>Urgencias médicas las 24 horas</p></div>
+<div class="box"><h3>WhatsApp</h3><p style="margin:0"><a href="https://wa.me/{WA}">312 888 6611</a><br>Lunes a viernes 8:00 a. m. – 6:00 p. m. · sábados 8:00 a. m. – 12:00 m.</p></div>
 <div class="box"><h3>Correo</h3><p style="margin:0"><a href="mailto:contacto@reinaelizabeth.com">contacto@reinaelizabeth.com</a></p></div>
 </div></div></section>
 '''
@@ -184,7 +183,7 @@ EDUCACION = {'ruta': 'educacion/index.html', 'titulo': 'Educación y docencia ·
 INSTITUCION = {'ruta': 'institucion/index.html', 'titulo': 'Nuestra institución · Reina Elizabeth IPS', 'descripcion': 'Quiénes somos, SG-SST y trabaja con nosotros.', 'cuerpo': f'''
 <div class="hero"><div class="wrap"><span class="etq">Nuestra institución</span><h1>Reina Elizabeth IPS</h1><p>Cuidamos tu salud con amor y fe.</p></div></div>
 <section><div class="wrap"><div class="foto-texto"><div><h2>Quiénes somos</h2>
-<p>Reina Elizabeth IPS es una institución prestadora de servicios de salud en Santa Marta (Magdalena), con urgencias médicas las 24 horas, medicina general en la IPS y a domicilio, enfermería, vacunación especializada, psicología, terapias y un centro especializado en autismo y neurodivergencia (Autism Center).</p>
+<p>Reina Elizabeth IPS es una institución prestadora de servicios de salud en Santa Marta (Magdalena), con medicina general en la IPS y a domicilio, enfermería, vacunación especializada, psicología, terapias y un centro especializado en autismo y neurodivergencia (Autism Center).</p>
 <p><b>Visión al 2030:</b> ser un centro de excelencia en servicios de salud de alta complejidad.</p>
 <p style="color:var(--suave);font-size:.92rem">Razón social: MONTECARLO SHAIO CLÍNICA IPS S.A.S., sigla Reina Elizabeth IPS · NIT 901074496 · Vigilado Supersalud.</p></div>
 <img src="/img/recepcion.jpg" alt="Recepción de Reina Elizabeth IPS" loading="lazy"></div></div></section>
@@ -201,6 +200,6 @@ NOTICIAS = {'ruta': 'noticias/index.html', 'titulo': 'Noticias · Reina Elizabet
 <section id="videos" class="alt"><div class="wrap"><h2>Videos</h2><div class="videos" data-bloque="videos-todos"></div></div></section>'''}
 
 PAGINAS = [
-    {'ruta': 'index.html', 'titulo': 'Reina Elizabeth IPS · Cuidamos tu salud con amor y fe', 'descripcion': 'IPS en Santa Marta: urgencias médicas 24 horas, medicina general en la IPS y a domicilio, enfermería, vacunación, psicología, terapias y programa de autismo y neurodivergencia.', 'cuerpo': INICIO, 'activo': '/'},
+    {'ruta': 'index.html', 'titulo': 'Reina Elizabeth IPS · Cuidamos tu salud con amor y fe', 'descripcion': 'IPS en Santa Marta: medicina general en la IPS y a domicilio, enfermería, vacunación, psicología, terapias y programa de autismo y neurodivergencia.', 'cuerpo': INICIO, 'activo': '/'},
     *[programa(*p) for p in PROGRAMAS], funcionarios(), EDUCACION, INSTITUCION, NOTICIAS,
 ]
