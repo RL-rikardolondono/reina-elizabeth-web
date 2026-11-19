@@ -46,6 +46,7 @@ SITIO = {
         ('Inicio', '/'),
         ('Servicios', [('Servicios de salud', '/#servicios'), ('Programa Autismo y Neurodivergencia', '/programa-autismo-y-neurodivergencia/'),
                        ('Intervención Temprana', '/intervencion-temprana/'), ('Regulación Sensorial', '/regulacion-sensorial/'),
+                       ('Salud en Casa: enfermería a domicilio', 'https://saludencasa.skynetgenesis.com/'),
                        ('Solicitar consulta', f'https://wa.me/{WA}?text=Hola%2C%20quiero%20solicitar%20una%20consulta')]),
         ('Educación y docencia', [('Eventos académicos', '/educacion/#eventos'), ('Test Atencional Básico', f'{RAIZ}/test-deficit-atencional.html'),
                                   ('Mapa de Sueño', f'{RAIZ}/mapasueno/mapasueno'), ('Test Atención y Vigilia', f'{RAIZ}/atencionyvigiliatest/atencionyvigiliatest'),
@@ -119,12 +120,16 @@ INICIO = f'''<div class="hero foto"><img class="fondo" src="/img/recepcion.jpg" 
 <div class="btns"><a class="btn b-wa" href="{WA_CONSULTA}">Solicitar consulta por WhatsApp</a><a class="btn b-bl" href="/programa-autismo-y-neurodivergencia/">Programa de autismo</a></div></div></div>
 <div class="wrap"><div class="cifras">
 <div class="cifra"><b>Citas</b><span>Agéndela por WhatsApp o en el chat de la página</span></div>
-<div class="cifra"><b>A domicilio</b><span>Medicina general y enfermería en su casa</span></div>
+<a class="cifra" href="https://saludencasa.skynetgenesis.com/" style="text-decoration:none;color:inherit"><b>A domicilio</b><span>Pida enfermería en casa con la app Salud en Casa →</span></a>
 <div class="cifra"><b>Autism Center</b><span>Autismo y neurodivergencia con enfoque interdisciplinario</span></div>
 <div class="cifra"><b>Santa Marta</b><span>Calle 22 No. 18-18, Catalina 2000</span></div>
 </div></div>
 <section id="servicios"><div class="wrap"><h2>Servicios de salud</h2><p class="sub-t">Atención humana y profesional para toda la familia.</p>{servicios_html()}</div></section>
-<section class="alt"><div class="wrap"><h2>Programas especializados</h2><p class="sub-t">Atención interdisciplinaria para niños, niñas y adolescentes.</p>{programas_html()}</div></section>
+<section class="alt" id="salud-en-casa"><div class="wrap"><div class="foto-texto"><img src="https://saludencasa.skynetgenesis.com/icon-512.png" alt="Salud en Casa" loading="lazy" style="max-width:220px;border-radius:28px;justify-self:center">
+<div><h2>Salud en Casa: enfermería a domicilio</h2><p>Con la app <b>Salud en Casa</b> de Reina Elizabeth IPS pide curaciones, inyectables, control de signos vitales y cuidado básico en su casa. Usted ve el precio antes de pedir, elige al profesional verificado por la IPS y paga en línea.</p>
+<div class="btns"><a class="btn b-az" href="https://saludencasa.skynetgenesis.com/app-paciente.html">Pedir un servicio</a><a class="btn b-bl" href="https://saludencasa.skynetgenesis.com/">Conocer Salud en Casa</a></div>
+<p style="font-size:.9rem;color:var(--suave);margin-top:8px">¿Es profesional de la salud? <a href="https://saludencasa.skynetgenesis.com/app-enfermero.html">Trabaje con nosotros en Salud en Casa</a>.</p></div></div></div></section>
+<section><div class="wrap"><h2>Programas especializados</h2><p class="sub-t">Atención interdisciplinaria para niños, niñas y adolescentes.</p>{programas_html()}</div></section>
 <section><div class="wrap"><div class="dos"><div><h2>Noticias</h2><div class="grid" data-bloque="noticias-inicio"></div>
 <p style="margin-top:14px"><a class="mas" href="/noticias/">Ver todas las noticias →</a></p></div>
 <aside><div class="box"><h2 style="font-size:1.4rem">Eventos académicos</h2><div data-bloque="eventos"><p style="color:var(--suave)">Pronto anunciaremos nuevos eventos.</p></div></div></aside></div></div></section>
